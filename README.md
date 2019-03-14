@@ -18,3 +18,5 @@ Create a service that allows anyone the ability to create a clip that combines t
 # Privacy Notice
 - Videos are never stored on the server that the service is hosted on.
 - By using the app, you agree that you not upload harmful or inappropriate videos.
+- Internet is mandatory for ads and most importantly, for the upload service
+- Access to the user's video collection is necessary for the user to upload their own videos
