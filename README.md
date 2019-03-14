@@ -16,5 +16,5 @@ Create a service that allows anyone the ability to create a clip that combines t
 - The service may be terminated at any point due to hosting
 
 # Privacy Notice
-- Videos are never stored on the service. They are deleted upon returning from the service
+- Videos are never stored on the server that the service is hosted on.
 - By using the app, you agree that you not upload harmful or inappropriate videos.
