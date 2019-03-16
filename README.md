@@ -1,5 +1,5 @@
 # Play of the Game Replay
-Overwatch inspired POTG
+Play of the Game Meme Generator
 
 # Goal:
 Create a service that allows anyone the ability to create a clip that combines the text and music to the user's uploaded video.
