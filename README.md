@@ -20,7 +20,7 @@ Create a service that allows anyone the ability to create a clip that combines t
 - Internet is mandatory for ads and most importantly, for the upload service
 - Access to the user's video collection is necessary for the user to upload their own videos
 
-# <End of Privacy Policy>
+# End of Privacy Policy
   
   If you would like to help maintain the server, please consider donating. Thanks so much!
   http://ko-fi.com/nominalscale/commissions
